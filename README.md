@@ -48,6 +48,7 @@ What is requirements engineering? Describe the process and its importance in the
 Software Design Principles:
 
 Answer: 
+
 Requiremnts engineering is the process of defining, documenting, and maintaining the needs and functionalities that a software system must fulfill. This invloves gathering requiremnts from stakeholders, analyzing and specifing them in detail, validating them to ensure they meet stakeholder's needs, and managing changes to these requirements throughout the project. It is a crucial part of the software development lifecycle because it lays the foundation for all subsequent development activities, ensuring that the final software product aligns with user expectations and business objectives.Proper requirements engineering helps prevent costly rework, reduces the risk of project failure, and improves overall project quality.
 
 Software design principles are guidelines that help developers create clean, maintainable, and efficient software. Key principles include modularity, abstraction, and the DRY principle(Don't Repeat Yourself, avoiding code duplication). These principles aim to enhance code readability, reusability, anhd scalability.
