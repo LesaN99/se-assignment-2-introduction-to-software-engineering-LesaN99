@@ -96,14 +96,16 @@ Software Maintenance:
 Answer:
 * Sofware project manager oversees the planning, execution, and delivery of software projects.
 * Key responsibilities entail defining project scope, planning time lines, allocating resources, and ensuring quality and timely delivery.Challenges include adapting to changing requirements, managing technical issues, maintaing team cohesion and balancing scope, cost and time constraints. 
+
 E.g NASA's Mars Rover Project:
-* Responsibility: Ensuring the software controlli8ng in the rover's avigation and operation was robust and error-free.
+* Responsibility: Ensuring the software controlling in the rover's avigation and operation was robust and error-free.
 * Challenge: The team faced significant challenges in developing software that could handle tyhe unpredictable Martian environment and communicate effectively over vast distances. They also had to manage a strict timeline and budget due to high costs associated with space missions.
 
 Software maintenance entails updating software to fix bugs, improve performance, and adapt to new requirements.
 
 (Source-
  Power Learn Project: Introduction to software engineering session
+
  Website: NASA Mars Exploration, July 30,  2020)
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
@@ -121,6 +123,7 @@ Ethical considerations in software engineering are crucial for ensuring that sof
 
 (Source:
  Adrian Cockcroft, 'Netflix in the Cloud,' Netflix Tech Blog, December 12, 2013
+ 
  Microsoft Support, 'Windows Update:FAQ' Microsoft Support)
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
